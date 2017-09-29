@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
+
+body{
+	background-color: #ffffff;
+	color: #212387;
+	font-size: 20px;
+	font-family: 'Berkshire Swash', cursive;
+	line-height: 20px;
+	margin: 0 auto;
+	padding: 0;
+	width: 700px;
+}
+
+
+header h1 a:link,
+header h1 a:visited {
+    color: #4e0451;
+    display: inline-block;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 40px;
+    font-weight: normal;
+    text-decoration: none
+}
+
+header h3{
+	color: #9b0067;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: normal;
+    margin-left: 14px
+}
+
+nav {
+    margin-top: 21px
+}
+nav ul {
+    list-style: none;
+    padding: 0 42px;
+    margin: 0
+}
+nav ul li {
+    color: #a80833
+}
+/*nav ul li a:link,
+nav ul li a:visited {
+    border-bottom: solid 1px #ddd;
+    color: #333;
+    text-decoration: none
+}
+nav ul li a:active,
+nav ul li a:hover {
+    border-bottom-color: #333
+}
+nav h3,
+section h3 {
+    color: #777;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 21px;
+    margin-left: 21px;
+    margin-bottom: 0;
+    margin: 0 0 0 21px;
+    text-transform: uppercase
+}*/
