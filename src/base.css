@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
 
 body{
-	/*background-color: #ffffff;*/
-    background-image: url("background.jpg")  ;
+	background-color: #ffffff;
     background-size: 1400px 1400px;
     background-repeat: no-repeat;
 	color: #212387;
