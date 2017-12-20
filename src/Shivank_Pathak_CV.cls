@@ -9,8 +9,8 @@
 \mobile{+91~798~568~4018}
 \email{b416045@iiit-bh.ac.in}
 \homepage{shivank01.github.io}
-\social[github][https://github.com/shivank01]{shivank01}
-\social[linkedin][https://www.linkedin.com/in/shivank-pathak-1a7895bb/]{Shivank Pathak}
+\social[github][github.com/shivank01]{shivank01}
+\social[linkedin][www.linkedin.com/in/shivank-pathak-1a7895bb/]{Shivank Pathak}
 
 %character encoding
 \RequirePackage[utf8]{inputenc}
