@@ -1,0 +1,28 @@
+[
+  {
+    "text": "Home",
+    "url": "/",
+    "icon": "fa-home",
+    "layout": "post"
+  },
+  {
+    "text": "About",
+    "url": "/about/",
+    "icon": "fa-comments"
+  },
+  {
+    "text": "Projects",
+    "url": "/projects",
+    "icon": "fa-folder-open"
+  },
+  {
+    "text": "CV",
+    "url": "https://shivank01.github.io/public/Shivank_Pathak_CV.pdf",
+    "icon": "fa-graduation-cap",
+  },
+  {
+    "text": "Github",
+    "url": "https://github.com/shivank01",
+    "icon": "fa-github"
+  }
+]
