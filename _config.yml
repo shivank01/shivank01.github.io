@@ -5,13 +5,13 @@ logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/shivank01
 about: Pythonista,Machine Learning Enthusiast and Competitive Programmer
 
-baseurl: "https://shivank01.github.io/"
-url: ""
+# baseurl: ""
+url: "https://shivank01.github.io"
 
 allowsearch: true
 
-#disqus_shortname: aboutshivank
-#google_analytics: UA-72862926-1
+disqus_shortname: shivankpathak
+google_analytics: UA-112671461-1
 
 share:
   twitter_username: shivank__
