@@ -25,20 +25,20 @@ This round was held in Kronos India Pvt. Ltd. (Noida Center).I got free tickets 
 <h3>1st Day(Main Event)</h3>
 I was very much excited and this is the reason that I reached the venue 2 hours early!!One of there employee welcomed me and gave me the directions.No one arrived besides me until 1 hour.After waiting for few hours,Event was started.We were given our ID cards and a Amazon Gift Card of Rs.1000 .
 
-![Pic1]({{ " /assets/Kronothon1.png " | absolute_url }})
+![Pic1]({{ "assets/Kronothon1.png " | absolute_url }})
 
 It started by a warm welcome by Kronos India Pvt. Ltd. Office Chief. After that, The main event Onsite final round of **Kronothon** started.I was the only 1st year student there.There were students from various prestigious institutes like IIT's,NIT's and IIIT's. We were given two competitive programming problems which we have to complete in 2hrs. During the event we were also given refreshments. I was able to do 1st problem easily but was stucked in 2nd problem but I somehow manage to do it. But there were some corner cases which I was not able to figure out.I thought I was out of the contest as there were people saying they were able to crack both the problems.
 
-![Pic2]({{ " /assets/Kronothon2.png " | absolute_url }})
+![Pic2]({{ "assets/Kronothon2.png " | absolute_url }})
 
 <h3>2nd Day(Result Declaration and Tech Talk on Big Data)</h3>
 I just came for Tech Talk as I thought that I was already out of the game.The 2nd day started by some refreshments followed by the Tech talk on big data. Though I was not able to understand all the stuffs because at that time I didn't knew even a bit of it but the tech talk was really awesome.
 
-![Pic3]({{ " /assets/Kronothon3.png " | absolute_url }})
+![Pic3]({{ "assets/Kronothon3.png " | absolute_url }})
 
 Then the time came for announcement of result.I was not really excited because of the above given reason.The announcement starts from the 10th position.It continues until 6th position.Now,It was time for Top 5.Even the little bit of hope was now gone.**Then,The 4th runner was announced and it was me.I was totally shocked.I haven't imagined this even in my dreams.I was honoured with a medal and a cash prize of Rs.25k .**
 
-![Pic4]({{ " /assets/Kronothon1.png " | absolute_url }})
+![Pic4]({{ "assets/Kronothon1.png " | absolute_url }})
 
 Then,I introduced myself and everyone was shocked when I told them that I am a 1st year student.Then the Senior manager of Kronos India met me and he told that he is the alumni of the same college IIIT Bhubaneswar. Then I have a small chat with him.**Then the event concluded**.
 
