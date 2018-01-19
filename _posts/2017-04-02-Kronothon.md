@@ -38,7 +38,7 @@ I just came for Tech Talk as I thought that I was already out of the game.The 2n
 
 Then the time came for announcement of result.I was not really excited because of the above given reason.The announcement starts from the 10th position.It continues until 6th position.Now,It was time for Top 5.Even the little bit of hope was now gone.**Then,The 4th runner was announced and it was me.I was totally shocked.I haven't imagined this even in my dreams.I was honoured with a medal and a cash prize of Rs.25k .**
 
-![Pic4]({{ "assets/Kronothon1.png " | absolute_url }})
+![Pic4]({{ "assets/Kronothon4.png " | absolute_url }})
 
 Then,I introduced myself and everyone was shocked when I told them that I am a 1st year student.Then the Senior manager of Kronos India met me and he told that he is the alumni of the same college IIIT Bhubaneswar. Then I have a small chat with him.**Then the event concluded**.
 
